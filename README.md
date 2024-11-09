@@ -25,3 +25,4 @@ Steps to create new branch :
    git pull origin name_of_branch
 
 These were the steps to push and pull from the sub branch.
+These changes are initially done in the new branch and the branches are not merged yet.
