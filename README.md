@@ -23,3 +23,5 @@ Steps to create new branch :
 
 4. When pullling from a new branch:
    git pull origin name_of_branch
+
+These were the steps to push and pull from the sub branch.
