@@ -15,3 +15,11 @@ Steps to create new branch :
 
 2. Creating new branch 
    git checkout -b name_of_branch
+
+3. commit and push to the new branch
+   
+   git commit -m "the new commit for the new branch"
+   push origin branch_name
+
+4. When pullling from a new branch:
+   git pull origin name_of_branch
